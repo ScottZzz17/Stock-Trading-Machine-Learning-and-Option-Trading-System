@@ -288,3 +288,8 @@ Note: The complete trading strategy, risk management logic, and sensitive API co
 For further discussion, collaboration, or a private demonstration of the system’s capabilities, please contact:
 - **Email:** szaragoza2@wisc.edu  
 - **LinkedIn:** ([https://www.linkedin.com/in/scott-zaragoza-198401329/](https://www.linkedin.com/in/scott-zaragoza-198401329/))
+
+- **Website:** ([https://ronanpatel.com/](https://ronanpatel.com/))
+
+- **Email:** ronan@ronanpatel.com  
+- **LinkedIn:** ([https://www.linkedin.com/in/ronanpatel/](https://www.linkedin.com/in/ronanpatel/))
