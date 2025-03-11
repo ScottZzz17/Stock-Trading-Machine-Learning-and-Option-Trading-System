@@ -289,7 +289,6 @@ For further discussion, collaboration, or a private demonstration of the systemâ
 - **Scott Zaragoza:**
   - **Email:** szaragoza2@wisc.edu  
   - **LinkedIn:** ([https://www.linkedin.com/in/scott-zaragoza-198401329/](https://www.linkedin.com/in/scott-zaragoza-198401329/))
-- 
 - **Ronan Patel:**
   - **Website:** ([https://ronanpatel.com/](https://ronanpatel.com/))
   - **Email:** ronan@ronanpatel.com  
